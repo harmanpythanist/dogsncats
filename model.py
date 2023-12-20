@@ -34,8 +34,6 @@ st.subheader('Now we can recognize for you wether its cat a dog!')
 im = st.file_uploader('pick a file')
 
 
-cat = ['Its a cat', 'We predict its a cat', 'Cat here', 'Probably a cat']
-dog = ['Its a dog', 'Dog I guess', 'My model says its a Dog', 'Dog for sure']
 
 def import_and_predict(image_data, model):
     size = (130,130)
@@ -53,10 +51,10 @@ if st.button('submit image'):
 
     if prediction[0]:
 
-        st.write(random.choice(cat))
+        st.write('its a cat')
     else:
 
-        st.write(random.choice(dog))
+        st.write('its a dog')
 
 st.write('---')
 
