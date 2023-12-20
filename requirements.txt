@@ -1,1 +1,9 @@
-
+matplotlib
+numpy
+random
+sklearn
+cv2
+tensorflow
+pandas
+PIL
+keras
