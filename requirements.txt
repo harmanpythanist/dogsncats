@@ -1,7 +1,7 @@
 matplotlib
 numpy
 scikit-learn
-opencv-python==4.1.2.30
+opencv-python
 tensorflow
 pandas
 Pillow
