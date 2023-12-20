@@ -1,0 +1,9 @@
+streamlit
+matplotlib.pypylot
+numpy
+tensorflow
+keras
+PIL
+random
+pandas
+sklearn
