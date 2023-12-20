@@ -1,6 +1,5 @@
 matplotlib
 numpy
-random
 sklearn
 cv2
 tensorflow
