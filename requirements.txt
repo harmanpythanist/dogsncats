@@ -1,8 +1,8 @@
 matplotlib
 numpy
-scikit-learn
-opencv-python
+opencv-python-headless
 tensorflow
+scikit-learn
 pandas
 Pillow
 keras
